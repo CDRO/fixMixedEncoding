@@ -19,7 +19,7 @@
  * @packag fix_mixed_encoding
  */
 /**
- * This script was originally cloned form https://github.com/CDRO/fixMixedEncoding.git
+ * This script was originally cloned form https://github.com/cabservicesag/fixMixedEncoding.git
  */
 // show usage
 if(!is_file($argv[1]) || empty($argv[0])) {
